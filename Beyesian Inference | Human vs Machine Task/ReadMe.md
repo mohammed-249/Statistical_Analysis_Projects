@@ -1,4 +1,4 @@
-# Bayesian Set Analysis
+# Beyesian Inference | Human vs Machine Task
 
 ## Project Description
 
