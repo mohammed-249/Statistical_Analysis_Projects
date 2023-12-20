@@ -5,7 +5,7 @@ Welcome to my Statistical Analysis Projects repository! Here, I showcase my prof
 # Projects
 **Project 1:**  [**Beyesian Inference | Genome Compression Task**](https://github.com/mohammed-249/Statistical_Analysis_Projects/tree/main/Bayesian%20inference%20%7C%20Genome%20Compression%20Task)
 
-Project 2: Frequentism
+**Project 2:**  [**Beyesian Inference | Human vs Machine Task**](https://github.com/mohammed-249/Statistical_Analysis_Projects/tree/main/Beyesian%20Inference%20%7C%20Human%20vs%20Machine%20Task)
 
 Project 3: A/B Testing
 
