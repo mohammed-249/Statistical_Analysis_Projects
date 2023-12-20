@@ -1,40 +1,21 @@
-# Introduction:
+# Overview
 
-This repository contains code for compressing the genome of the newly discovered virus Bayes inferens. This virus has a remarkably short genome of just 10 kilobase pairs (kbps), and its infected individuals develop a strong intuition for Bayesian inference. To study this virus further, we need to store its genome efficiently on a flash drive with limited memory (2.2 kilobytes).
+This project focuses on DNA sequence compression utilizing a Bayesian approach to optimize the coding of genetic information into binary digits. The provided Python script demonstrates the application of Variable-Length Codes to achieve an efficient representation of DNA sequences in binary format.
 
-# Compression Challenge:
+The code begins by fetching a DNA sequence from a specified URL, followed by a frequency analysis of the nucleotide occurrences in the sequence. The Bayesian approach is then employed to devise an optimal coding scheme that maps DNA's four-letter alphabet (A, T, C, G) to binary digits. The goal is to achieve compression substantial enough to fit the sequence into memory.
 
-The challenge lies in converting the DNA sequence (using four letters: A, C, G, T) into binary (using only 0s and 1s) while achieving sufficient compression to fit within the flash drive's memory constraint.
+# Bayesian Approach
 
-***Naive Approach:***
+The Bayesian approach is leveraged to iteratively explore different mappings from DNA letters to binary representations. The effectiveness of each mapping is evaluated based on the resulting compression ratio. The final chosen mapping is applied to convert the DNA sequence into a binary representation.
 
-The initial approach uses a simple mapping: A -> 00, C -> 01, G -> 10, T -> 11. This results in a binary sequence longer than the original DNA sequence, failing to achieve compression.
+# Variable-Length Codes
 
-# Optimal Code Design:
+The Variable-Length Codes, specified in the code_opt dictionary, provide an optimum approach to encode the DNA sequence into binary. The lengths of the codes are chosen based on the frequency analysis, allowing more common nucleotides to have shorter binary representations, contributing to compression.
 
-The key to compression lies in designing a better code that assigns shorter binary strings to more frequent DNA letters. This leverages the non-uniform probability distribution of letters in the DNA sequence.
+# Statistical Analysis
 
-**Key Points in the Code:**
+The script showcases statistical analysis skills by assessing the compression achieved and determining whether the resulting binary representation can be decoded unambiguously back to the original DNA sequence. The analysis considers the size of the compressed data in kilobytes and evaluates whether it meets the threshold for storage on a typical flash drive.
 
-The freq dictionary stores the frequency of each base in the DNA sequence.
-code_opt dictionary is used to define the optimized mapping from DNA letters to binary.
-Two functions are implemented:
-join_binary_sequence: Converts the DNA sequence to binary using the chosen code.
-decode_binary_sequence: Decodes the binary sequence back to the original DNA sequence based on the chosen code.
-Compression efficiency is measured in bits per base pair saved compared to the naive approach.
+**Note:** The script outputs the compressed binary representation (seq_opt) and verifies the accuracy of decoding. If the compression achieves a size below a specified threshold, it is deemed suitable for storage on a flash drive.
 
-# Output:
-
-The script outputs the following information:
-
-Original DNA sequence and its length in kbps.
-Binary sequence generated using the naive and optimized codes.
-Compression achieved (bits per base pair saved) for each code.
-Whether the compressed sequence fits within the flash drive's memory constraint.
-**Further Analysis:**
-
-The code also calculates the potential additional bits saved per base pair if the optimized code had been used instead of the naive approach.
-
-# Conclusion:
-
-This task demonstrates the use of information theory and variable-length codewords for data compression, highlighting the trade-off between code complexity and compression efficiency. By designing an optimal code based on the frequency distribution of DNA letters, we can significantly reduce the storage requirements for the Bayes inferens genome.
+By exploring different coding schemes and leveraging statistical analysis, this project demonstrates an approach to compressing DNA sequences, providing insights into the application of information theory in genomics.
