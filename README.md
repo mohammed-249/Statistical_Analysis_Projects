@@ -15,14 +15,16 @@ Project 5: More Projects
 
 # Skills Demonstrated
 
-    Statistical Modeling: Application of statistical models to analyze and interpret data.
-    Hypothesis Testing: Design and execution of hypothesis tests to draw meaningful conclusions.
-    A/B Testing: Implementation and analysis of A/B tests for data-driven decision-making.
-    Bayesian Inference: Application of Bayesian methods for probabilistic modeling.
+Statistical Modeling: Application of statistical models to analyze and interpret data.
+Hypothesis Testing: Design and execution of hypothesis tests to draw meaningful conclusions.
+A/B Testing: Implementation and analysis of A/B tests for data-driven decision-making.
+Bayesian Inference: Application of Bayesian methods for probabilistic modeling.
 
 
-Contact
+# Contact
 
-    Email: mohammedhassanmusa@gmail.com
-    LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohammed249/)https://www.linkedin.com/in/mohammed249/
-    Website: mohammed249.com
+Email: [**mohammedhassanmusa@gmail.com**](mailto:mohammedhassanmusa@gmail.com)
+
+LinkedIn: [**Mohammed249**](https://linkedin.com/in/mohammed249/)
+
+Website: mohammed249.com
