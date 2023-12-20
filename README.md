@@ -3,7 +3,7 @@
 Welcome to my Statistical Analysis Projects repository! Here, I showcase my proficiency in statistical analysis, covering a diverse range of topics such as Bayesian inference, Frequentism, A/B testing, hypothesis testing, and more. This repository serves as a portfolio of my data science skills, particularly in the realm of statistical analysis.
 
 # Projects
-Project 1: Bayesian Inference
+**Project 1:**  [**Beyesian Inference | Genome Compression Task**](https://github.com/mohammed-249/Statistical_Analysis_Projects/tree/main/Bayesian%20inference%20%7C%20Genome%20Compression%20Task)
 
 Project 2: Frequentism
 
