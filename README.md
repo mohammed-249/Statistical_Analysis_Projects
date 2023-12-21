@@ -7,7 +7,7 @@ Welcome to my Statistical Analysis Projects repository! Here, I showcase my prof
 
 **Project 2:**  [**Beyesian Inference | Human vs Machine Task**](https://github.com/mohammed-249/Statistical_Analysis_Projects/tree/main/Beyesian%20Inference%20%7C%20Human%20vs%20Machine%20Task)
 
-Project 3: A/B Testing
+**Project 2:**  [**AB Testing | Cookie Cat Video Game**](https://github.com/mohammed-249/Statistical_Analysis_Projects/tree/main/AB%20Testing%20%7C%20Cookie%20Cat%20Video%20Game)
 
 Project 4: Hypothesis Testing
 
