@@ -11,13 +11,13 @@ Welcome to my Statistical Analysis Projects repository! Here, I showcase my prof
 
 *Bayesian Set Analysis distinguishes human-generated from computer-generated binary sequences using Bayesian inference, revealing posterior probabilities through data-driven modeling for effective pattern recognition.*
 
-**Project 2:**  [**AB Testing | Cookie Cat Video Game**](https://github.com/mohammed-249/Statistical_Analysis_Projects/tree/main/AB%20Testing%20%7C%20Cookie%20Cat%20Video%20Game)
+**Project 3:**  [**AB Testing | Cookie Cat Video Game**](https://github.com/mohammed-249/Statistical_Analysis_Projects/tree/main/AB%20Testing%20%7C%20Cookie%20Cat%20Video%20Game)
 
 *Exploring player retention with gate placement. Unexpected findings challenge norms, hinting at hedonic adaptation's role in user engagement.*
 
-Project 4: Hypothesis Testing
+**Project 4:**  [**AB Testing | Cookie Cat Video Game**](https://github.com/mohammed-249/Statistical_Analysis_Projects/tree/main/Beyesian%20inference%20%7C%20Alien%20Pollstar)
 
-Project 5: More Projects
+*In this project I used Bayesian inference to estimate local election support for a specific candidate, simulating an alien pollster's investigation with limited data and evolving beliefs.*
 
 # Skills Demonstrated
 
