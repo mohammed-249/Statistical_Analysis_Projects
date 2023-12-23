@@ -15,7 +15,7 @@ Welcome to my Statistical Analysis Projects repository! Here, I showcase my prof
 
 *Exploring player retention with gate placement. Unexpected findings challenge norms, hinting at hedonic adaptation's role in user engagement.*
 
-**Project 4:**  [**AB Testing | Cookie Cat Video Game**](https://github.com/mohammed-249/Statistical_Analysis_Projects/tree/main/Beyesian%20inference%20%7C%20Alien%20Pollstar)
+**Project 4:**  [**Beyesian inference | Alien Pollster**](https://github.com/mohammed-249/Statistical_Analysis_Projects/tree/main/Beyesian%20inference%20%7C%20Alien%20Pollstar)
 
 *In this project I used Bayesian inference to estimate local election support for a specific candidate, simulating an alien pollster's investigation with limited data and evolving beliefs.*
 
