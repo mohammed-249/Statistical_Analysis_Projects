@@ -21,16 +21,11 @@ Welcome to my Statistical Analysis Projects repository! Here, I showcase my prof
 
 # Skills Demonstrated
 
-Statistical Modeling: Application of statistical models to analyze and interpret data.
-Hypothesis Testing: Design and execution of hypothesis tests to draw meaningful conclusions.
-A/B Testing: Implementation and analysis of A/B tests for data-driven decision-making.
-Bayesian Inference: Application of Bayesian methods for probabilistic modeling.
+**Statistical Modeling:** Application of statistical models to analyze and interpret data.
 
+**Hypothesis Testing:** Design and execution of hypothesis tests to draw meaningful conclusions.
 
-# Contact
+**A/B Testing:** Implementation and analysis of A/B tests for data-driven decision-making.
 
-Email: [**mohammedhassanmusa@gmail.com**](mailto:mohammedhassanmusa@gmail.com)
+**Bayesian Inference:** Application of Bayesian methods for probabilistic modeling.
 
-LinkedIn: [**Mohammed249**](https://linkedin.com/in/mohammed249/)
-
-Website: mohammed249.com
